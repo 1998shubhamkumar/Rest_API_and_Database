@@ -5,7 +5,7 @@ To install libraries:
    1) "pip install flask"
    2) "pip install jsonify"
    3) "pip install request"
-*Python backend part created
+*Python backened part created
 
 
 
